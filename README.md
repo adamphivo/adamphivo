@@ -3,3 +3,5 @@ adamphivo/adamphivo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 Well, hello there ✨ 
+
+I am a freelancer and currently open to proposals. Please get in touch if you like my work :)
