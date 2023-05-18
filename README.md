@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Adam, a web developer passionate about building beautiful, unique and fast web applications.
+I am Adam, a web developer driven by a fervent passion for crafting stunning, exceptional, and high-performing web applications.
 
 ### Tools 🛠️
 
@@ -16,13 +16,15 @@ I'm Adam, a web developer passionate about building beautiful, unique and fast w
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 ### Katas 🥋
 
-I enjoy improving my problem-solving skills by practicing various katas and learning _via_ other people's solutions.
+I find great pleasure in honing my problem-solving abilities through the practice of diverse katas and the acquisition of knowledge from the solutions offered by others.
 
 ![Codewars Badge](https://www.codewars.com/users/adamphivo/badges/large)
 
