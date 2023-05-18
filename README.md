@@ -37,3 +37,5 @@ adamphivo@gmail.com
 ### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adamphivo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=adamphivo&color=purple)
