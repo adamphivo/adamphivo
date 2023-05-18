@@ -28,13 +28,11 @@ I find great pleasure in honing my problem-solving abilities through the practic
 
 ![Codewars Badge](https://www.codewars.com/users/adamphivo/badges/large)
 
-### How to reach me ? 📫
+### Contact 📫
 
-If you think we can work together, you can send me an email at :
+If you believe in the possibility of collaboration, please feel free to reach out to me _via_ email at adamphivo@gmail.com
 
-adamphivo@gmail.com
-
-### GitHub Stats
+### Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adamphivo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
