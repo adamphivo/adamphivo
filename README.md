@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Adam, a web developer driven by a fervent passion for crafting stunning, exceptional, and high-performing web applications.
+I am Adam, a web developer driven by a fervent passion for crafting stunning, unique, and high-performing web applications.
 
 ### Tools 🛠️
 
