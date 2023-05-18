@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Codewars
+
+I enjoy improving my problem-solving skills by practicing various katas and checking others solutions
