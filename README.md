@@ -44,6 +44,6 @@ I find great pleasure in honing my problem-solving abilities through the practic
 If you believe in the possibility of collaboration, please feel free to reach out to me _via_ email at adamphivo@gmail.com
 
 ### Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamphivo)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=adamphivo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=adamphivo&color=brightgreen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamphivo)](https://github.com/anuraghazra/github-readme-stats)
