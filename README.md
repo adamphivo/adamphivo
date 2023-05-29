@@ -44,5 +44,5 @@ I find great pleasure in honing my problem-solving abilities through the practic
 If you believe in the possibility of collaboration, please feel free to reach out to me _via_ email at adamphivo@gmail.com
 
 ### Stats 📈
-[![GitHub Streak](https://streak-stats.demolab.com?user=adamphivo&theme=dark&hide_border=true)](https://git.io/streak-stats)\
+[![GitHub Streak](https://streak-stats.demolab.com?user=adamphivo&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)\
 ![](https://komarev.com/ghpvc/?username=adamphivo&color=brightgreen)
