@@ -45,4 +45,5 @@ If you believe in the possibility of collaboration, please feel free to reach ou
 
 ### Stats 📈
 [![GitHub Streak](https://streak-stats.demolab.com?user=adamphivo&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)\
+\
 ![](https://komarev.com/ghpvc/?username=adamphivo&color=brightgreen)
